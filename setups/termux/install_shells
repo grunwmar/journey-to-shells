@@ -1,0 +1,7 @@
+#!/bin/sh
+pkg update
+pkg install zsh
+pkg install bash
+pkg install tcsh
+pkg install loksh
+pkg install dash

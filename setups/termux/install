@@ -1,0 +1,2 @@
+mkdir ~/.termux
+cp ./termux.properties ~/.termux
