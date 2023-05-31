@@ -1,2 +1,1 @@
-# Debian Almquist Shell
-## sh / ash / dash
+# Debian Almquist Shell *(sh / ash / dash)*

@@ -1,2 +1,1 @@
-# TENEX C Shell
-## tcsh / csh
+# TENEX C Shell *(tcsh / csh)*

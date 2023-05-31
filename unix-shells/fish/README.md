@@ -1,2 +1,1 @@
-# Friendly Interactive Shell
-## fish
+# Friendly Interactive Shell *(fish)*

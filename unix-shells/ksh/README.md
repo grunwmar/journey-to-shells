@@ -1,2 +1,1 @@
-# Korn Shell
-## ksh
+# Korn Shell *(ksh)*
